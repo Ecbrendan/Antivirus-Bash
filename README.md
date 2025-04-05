@@ -138,11 +138,12 @@ Kali Linux ISO
 
 28. On reboot, Kali will boot into the login screen. Use your username and password to log in.
 
-29. After logging in, you’re now inside Kali Linux. Open a terminal and update your system: sudo apt update && sudo apt upgrade -y
+29. After logging in, you’re now inside Kali Linux. Open a terminal and update your system:
+    ##### sudo apt update && sudo apt upgrade -y
 
 
-4️⃣ LinkedIn Post
-🌐 Shared My Experience:
+# 4️⃣ LinkedIn Post
+## 🌐 Shared My Experience:
 I created a LinkedIn post summarizing the assignment, key learnings, and screenshots.
 
 🔗 View my LinkedIn post here
