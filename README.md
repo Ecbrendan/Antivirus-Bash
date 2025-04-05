@@ -22,9 +22,6 @@ X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
 2. Save as `eicar.com`
 3. Your antivirus should immediately detect and quarantine it
 
-##### 📸 Screenshot:
-['EICAR_Detection'](screenshots/EICAR_Detection.jpg)
-
 ---
 
 ## 2️⃣ Bash Script – Power Off System
