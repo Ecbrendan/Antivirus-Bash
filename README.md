@@ -1,5 +1,5 @@
 # Antivirus&Bash
-## 📌 Overview of Tasks
+### 📌 Overview of Tasks
 
 1. ✅ Create an antivirus test file using the EICAR standard
 2. ✅ Write a Bash script to shut down a Linux system
@@ -7,29 +7,29 @@
 4. ✅ Share the experience in a professional LinkedIn post
 
 
-## 1️⃣ EICAR Test File – Antivirus Testing
+##### 1️⃣ EICAR Test File – Antivirus Testing
 
-## 🔍 Description:
+##### 🔍 Description:
 The [EICAR test string](https://www.eicar.org/?page_id=3950) is a harmless file designed to test the response of antivirus software.
 
-## 📄 File: [`eicar_test_file.txt`](./eicar_test_file.txt)
+##### 📄 File: [`eicar_test_file.txt`](./eicar_test_file.txt)
 This file is a `.txt` version of the standard `eicar.com` test file to avoid automatic antivirus flags or GitHub restrictions.
 
-## 🧪 How to Test:
+##### 🧪 How to Test:
 1. Copy and paste this string into a text editor:
 X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
 
 2. Save as `eicar.com`
 3. Your antivirus should immediately detect and quarantine it
 
-## 📸 Screenshot:
+##### 📸 Screenshot:
 ![EICAR Detection](screenshots/EICAR_Detection.jpg)
 
 ---
 
 ## 2️⃣ Bash Script – Power Off System
 
-## 📜 File: [`shutdown.sh`](./shutdown.sh)
+##### 📜 File: [`shutdown.sh`](./shutdown.sh)
 A basic Bash script that powers off the system.
 
 Note: Requires sudo privileges.
@@ -38,7 +38,7 @@ Note: Requires sudo privileges.
 echo "Shutting down system in 60s!!!..."
 sudo shutdown
 
-▶️ How to Use:
+#### ▶️ How to Use:
 Open terminal in Linux
 
 Create file:
@@ -53,7 +53,7 @@ Run it:
 ./shutdown.sh
 
 ## 3️⃣ Installing Kali Linux in VMware
-# 🧰 Tools Used:
+##### 🧰 Tools Used:
 VMware Workstation Pro
 Kali Linux ISO
 
@@ -142,8 +142,8 @@ Kali Linux ISO
     ##### sudo apt update && sudo apt upgrade -y
 
 
-# 4️⃣ LinkedIn Post
-## 🌐 Shared My Experience:
+## 4️⃣ LinkedIn Post
+#### 🌐 Shared My Experience:
 I created a LinkedIn post summarizing the assignment, key learnings, and screenshots.
 
 🔗 View my LinkedIn post here
